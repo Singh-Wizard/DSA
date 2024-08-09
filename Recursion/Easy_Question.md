@@ -1,5 +1,5 @@
 ### Easy Problems on Recursion
-Print 1 to n without using loops
+Print 1 to n without using loops\n
 Print N to 1 without loop
 Mean of Array using Recursion
 Sum of natural numbers using recursion
